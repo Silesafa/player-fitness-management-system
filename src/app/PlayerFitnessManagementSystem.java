@@ -21,7 +21,7 @@
 
 Array List https://www.youtube.com/watch?v=qSOIxeqrfdk
  */
-package proyecto1andres1;
+package app;
 
 import Clases.Jugador;
 import java.time.LocalDateTime;
@@ -34,7 +34,7 @@ import java.util.Scanner;
  *
  * @author Andrés Céspedes Siles
  */
-public class Proyecto1Andres1 {
+public class PlayerFitnessManagementSystem {
 
 
 
