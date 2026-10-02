@@ -1,26 +1,11 @@
 /*
-  Andrés Céspedes Siles
- Referencias:
- https://www.campusmvp.es/recursos/post/como-manejar-correctamente-fechas-en-java-el-paquete-java-time.aspx
- https://www.discoduroderoer.es/como-hacer-un-menu-de-opciones-en-consola-en-java/
- https://codersfree.com/posts/solicitando-datos-al-usuario-en-java-con-la-clase-scanner
- https://www.programarya.com/Cursos/Java/Funciones
- https://www.datacamp.com/es/doc/java/import
- Programacion ATS. Programcion en JAVA 
- https://www.youtube.com/watch?v=2ZXiuh0rg3M&list=PLWtYZ2ejMVJkjOuTCzIk61j7XKfpIR74K
- TodoCode. JAVA para principiantes
- https://www.youtube.com/watch?v=qxXcI56NfnE&list=PLQxX2eiEaqbz8W1qM9eAxPSF65Zj090-P
- Quesada Luis. Tutoria #1. Uned
- https://www.youtube.com/watch?v=8bCIZw8Tmeg
- Manejo de excepciones. UNED
- https://www.youtube.com/watch?v=w_whQKe1De4
- https://www.youtube.com/watch?v=DpcG655aoOY
- Clases y Objetos. UNED
- https://www.youtube.com/watch?v=qzcgba4PQxc
- https://www.youtube.com/watch?v=DpcG655aoOY
-
-Array List https://www.youtube.com/watch?v=qSOIxeqrfdk
- */
+* Player Fitness Management System
+*
+* Original academic project developed for
+* Intermediate Programming.
+*
+* Author: Andrés Céspedes Siles
+*/
 package app;
 
 import Clases.Jugador;
